@@ -3,48 +3,48 @@
 ## CREWMATE
 
 ### Aurial
-może wyczuwać rzeczy w otaczającej go aurze. Jeśli jakikolwiek gracz w pobliżu Auriala użyje umiejętności przyciskowej, Aurial otrzyma strzałkę wskazującą miejsce, w którym ta umiejętność została użyta.
+- może wyczuwać rzeczy w otaczającej go aurze. Jeśli jakikolwiek gracz w pobliżu Auriala użyje umiejętności przyciskowej, Aurial otrzyma strzałkę wskazującą miejsce, w którym ta umiejętność została użyta.
 
 ### Lookout
-może obserwować innych graczy podczas rund. Podczas spotkań będzie widział wszystkie role, które weszły w interakcję z obserwowanym graczem.
+- może obserwować innych graczy podczas rund. Podczas spotkań będzie widział wszystkie role, które weszły w interakcję z obserwowanym graczem.
 
 ### Mystic
-otrzymuje alert informujący o śmierci kogoś.
-Na dodatek Mystic na krótko otrzymuje strzałkę wskazującą kierunek ciała.
+- otrzymuje alert informujący o śmierci kogoś.
+- Na dodatek Mystic na krótko otrzymuje strzałkę wskazującą kierunek ciała.
 
 ### Seer
-może ujawnić sojusz innych graczy.
-Na podstawie ustawień, Seer może dowiedzieć się, czy gracz jest Dobry czy Zły.
-Nazwa gracza zmieni kolor w zależności od frakcji i roli.
-WSZYSTKIE NEUTRALE I IMPO SĄ CZERWONI. NAWET DOBRZY NEUTRALE
+- może ujawnić sojusz innych graczy.
+- Na podstawie ustawień, Seer może dowiedzieć się, czy gracz jest Dobry czy Zły.
+- Nazwa gracza zmieni kolor w zależności od frakcji i roli.
+- WSZYSTKIE NEUTRALE I IMPO SĄ CZERWONI. NAWET DOBRZY NEUTRALE
 
 ### Snitch
-może otrzymać strzałki wskazujące na Impo, gdy wszystkie ich zadania zostaną ukończone.
-Nicki Impo również pojawią się na ich ekranie na czerwono.
-Jednak gdy zostanie im tylko jedno zadanie, Impostorom zostanie wyświetlona strzałka wskazująca na Snitcha
+- może otrzymać strzałki wskazujące na Impo, gdy wszystkie ich zadania zostaną ukończone.
+- Nicki Impo również pojawią się na ich ekranie na czerwono.
+- Jednak gdy zostanie im tylko jedno zadanie, Impostorom zostanie wyświetlona strzałka wskazująca na Snitcha
 
 ### Medic
-może dać każdemu graczowi tarczę, która uczyni go nieśmiertelnym, dopóki Medyk nie umrze.
-Gracz z tarczą nie może zostać zabity przez nikogo, chyba że przez samobójstwo.
-Jeśli Medyk zgłosi zwłoki, może otrzymać raport zawierający wskazówki dotyczące tożsamości Zabójcy.
-Raport może zawierać imię zabójcy lub typ koloru (Ciemniejszy/Jaśniejszy)
+- może dać każdemu graczowi tarczę, która uczyni go nieśmiertelnym, dopóki Medyk nie umrze.
+- Gracz z tarczą nie może zostać zabity przez nikogo, chyba że przez samobójstwo.
+- Jeśli Medyk zgłosi zwłoki, może otrzymać raport zawierający wskazówki dotyczące tożsamości Zabójcy.
+- Raport może zawierać imię zabójcy lub typ koloru (Ciemniejszy/Jaśniejszy)
 
 ### Engi
-mogą naprawiać sabotaże z dowolnego miejsca na mapie.
-Mogą używać otworów wentylacyjnych, aby łatwo przemieszczać się po mapie.
+- mogą naprawiać sabotaże z dowolnego miejsca na mapie.
+- Mogą używać otworów wentylacyjnych, aby łatwo przemieszczać się po mapie.
 
 ### Imitator
-The Imitator is a Crewmate that can mimic dead crewamtes.
-During meetings the Imitator can select who they are going to imitate the following round from the dead.
-They can choose to use each dead players as many times as they wish.
+- The Imitator is a Crewmate that can mimic dead crewamtes.
+- During meetings the Imitator can select who they are going to imitate the following round from the dead.
+- They can choose to use each dead players as many times as they wish.
 
 ### Prosecutor
-The Prosecutor is a Crewmate that can once per game prosecute a player which results in them being exiled that meeting. Jak wyrzuci crewmate, to ginie razem z nim.
-The Prosecutor can also see votes non-anonymously.
+- The Prosecutor is a Crewmate that can once per game prosecute a player which results in them being exiled that meeting. Jak wyrzuci crewmate, to ginie razem z nim.
+- The Prosecutor can also see votes non-anonymously.
 
 ### Transporter
-The Transporter is a Crewmate that can change the locations of two random players at will.
-Players who have been transported are alerted with a blue flash on their screen.
+- The Transporter is a Crewmate that can change the locations of two random players at will.
+- Players who have been transported are alerted with a blue flash on their screen.
 
 ## NEUTRAL
 
